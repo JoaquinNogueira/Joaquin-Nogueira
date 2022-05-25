@@ -2,7 +2,7 @@
 
 # Acerca de mi 👋
 
-Soy Desarrollador Web Full Stack, con muchísimo interés en el mundo IT y con la capacidad para llevar a cabo proyectos web en equipo o de forma individual. Soy una persona activa con buena disposición a lo social, me considero autodidacta, lo que no entiendo o desconozco, lo investigo. Soy muy curioso. Muy entusiasmado de esta nueva etapa de mi vida como IT.
+Soy Desarrollador Web Full Stack, con muchísimo interés en el mundo IT y con la capacidad para llevar a cabo proyectos web en equipo o de forma individual. Soy una persona activa con buena disposición a lo social, me considero autodidacta, lo que no entiendo o desconozco, lo investigo. Soy muy curioso. Estoy muy entusiasmado de esta nueva etapa de mi vida como IT.
 
 # Estudios 👨‍🎓
 
