@@ -2,11 +2,7 @@
 
 # Acerca de mi 👋
 
-Español:
 Soy Desarrollador Web Full Stack, con muchísimo interés en el mundo IT y con la capacidad para llevar a cabo proyectos web en equipo o de forma individual. Soy una persona activa con buena disposición a lo social, me considero autodidacta, lo que no entiendo o desconozco, lo investigo. Soy muy curioso. Muy entusiasmado de esta nueva etapa de mi vida como IT.
-<br />
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<br />
 
 # Estudios 👨‍🎓
 
