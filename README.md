@@ -35,7 +35,7 @@ Realizado Durante El Cursado De Henry.
 
 ```
 Tecnologias:
-JavaScript - Node.js - React - Express - Redux - CSS - HTML - Sequelize - PostgreSQL - Boostrap
+JavaScript - Node.js - React - Express - Redux - CSS - HTML - Sequelize - PostgreSQL - Bootstrap
 Realizado Durante El Cursado De Henry En Un Grupo De 6 Personas.
 ```
 
